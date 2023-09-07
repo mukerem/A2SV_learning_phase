@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/StudentGradeCalculator.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/StudentGradeCalculator.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/StudentGradeCalculator.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/StudentGradeCalculator.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/ref/StudentGradeCalculator.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/bin/Debug/net6.0/StudentGradeCalculator.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/ref/StudentGradeCalculator.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentGradeCalculator/obj/Debug/net6.0/StudentGradeCalculator.genruntimeconfig.cache
