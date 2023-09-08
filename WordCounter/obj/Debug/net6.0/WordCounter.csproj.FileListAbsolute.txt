@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/WordCounter.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/WordCounter.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/WordCounter.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/WordCounter.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/ref/WordCounter.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/bin/Debug/net6.0/WordCounter.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/ref/WordCounter.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/WordCounter/obj/Debug/net6.0/WordCounter.genruntimeconfig.cache
