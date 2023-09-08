@@ -2,7 +2,7 @@
 
 public abstract class Shape
 {
-    public string Name { get; set; }
+    public string Name;
 
     public virtual double CalculateArea()
     {
@@ -12,7 +12,7 @@ public abstract class Shape
 
 public class Circle : Shape
 {
-    private double Radius { get; set; }
+    private double Radius;
 
     public Circle(double radius)
     {
@@ -28,8 +28,7 @@ public class Circle : Shape
 
 public class Rectangle : Shape
 {
-    private double Width { get; set; }
-    private double Height { get; set; }
+    private double Width, Height;
 
     public Rectangle(double width, double height)
     {
@@ -46,8 +45,7 @@ public class Rectangle : Shape
 
 public class Triangle : Shape
 {
-    private double Base { get; set; }
-    private double Height { get; set; }
+    private double Base, Height;
 
     public Triangle(double baseLength, double height)
     {
