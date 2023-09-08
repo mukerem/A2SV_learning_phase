@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/Shape.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/Shape.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/Shape.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/Shape.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/ref/Shape.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/bin/Debug/net6.0/Shape.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/ref/Shape.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Shape/obj/Debug/net6.0/Shape.genruntimeconfig.cache
