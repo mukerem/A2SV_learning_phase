@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 public class Palindrome
 {
     public static bool isPalindrome(string input)
