@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/LibraryCatalog.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/LibraryCatalog.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/LibraryCatalog.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/LibraryCatalog.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/ref/LibraryCatalog.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/bin/Debug/net6.0/LibraryCatalog.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/ref/LibraryCatalog.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/Debug/net6.0/LibraryCatalog.genruntimeconfig.cache
