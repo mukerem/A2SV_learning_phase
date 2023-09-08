@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/Palindrome.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/Palindrome.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/ref/Palindrome.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/bin/Debug/net6.0/Palindrome.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
