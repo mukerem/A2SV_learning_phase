@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/SimpleTaskManager.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/SimpleTaskManager.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/SimpleTaskManager.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/SimpleTaskManager.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/ref/SimpleTaskManager.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/bin/Debug/net6.0/SimpleTaskManager.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/ref/SimpleTaskManager.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/SimpleTaskManager/obj/Debug/net6.0/SimpleTaskManager.genruntimeconfig.cache
