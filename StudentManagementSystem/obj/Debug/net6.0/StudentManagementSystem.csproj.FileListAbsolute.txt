@@ -1,0 +1,15 @@
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/StudentManagementSystem.deps.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/StudentManagementSystem.runtimeconfig.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/StudentManagementSystem.runtimeconfig.dev.json
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/StudentManagementSystem.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/ref/StudentManagementSystem.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/bin/Debug/net6.0/StudentManagementSystem.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.csproj.AssemblyReference.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.AssemblyInfoInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.AssemblyInfo.cs
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/ref/StudentManagementSystem.dll
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.pdb
+/Users/apple/Documents/personal_codes/A2SV_Learning_phase/StudentManagementSystem/obj/Debug/net6.0/StudentManagementSystem.genruntimeconfig.cache
