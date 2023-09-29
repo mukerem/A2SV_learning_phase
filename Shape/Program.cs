@@ -78,6 +78,3 @@ public class Program
         PrintShapeArea(triangle);
     }
 }
-
-
-

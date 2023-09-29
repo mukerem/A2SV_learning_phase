@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/LibraryCatalog.csproj": {}
+    "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Blog/Blog.csproj": {}
   },
   "projects": {
-    "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/LibraryCatalog.csproj": {
+    "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Blog/Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/LibraryCatalog.csproj",
-        "projectName": "LibraryCatalog",
-        "projectPath": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/LibraryCatalog.csproj",
+        "projectUniqueName": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Blog/Blog.csproj",
+        "projectName": "Blog",
+        "projectPath": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Blog/Blog.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/LibraryCatalog/obj/",
+        "outputPath": "/Users/apple/Documents/personal_codes/A2SV_Learning_phase/Blog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.nuget/NuGet/NuGet.Config"
@@ -38,9 +38,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -54,6 +62,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
